@@ -1,0 +1,34 @@
+wall test (flat wall from 6000 directions, distance left):
+  motors       26.3 mm
+  props         7.7 mm
+  fc           56.2 mm
+  camera       43.5 mm
+  vtx          64.9 mm
+  batteries    37.5 mm
+overlaps between parts: none
+camera 0-40 deg collisions: none
+rib slide-in collision (mm3): 0.0
+upper dome lift-off collision (mm3): 0.0
+lower dome drop-off collision (mm3): 0.0
+static gap props-cage (mm): 8.93
+static gap props-frame (mm): 2.15
+ring A half-lap, rib keeps (mm): 1.70
+ring A half-lap, ring keeps (mm): 1.70
+ring B notch, rib keeps (mm of 3.0): 1.84
+ring D notch, rib keeps (mm of 3.0): 1.85
+mass:
+  frame              7.9 g
+  vtx_deck           1.0 g
+  ring_a_top         3.9 g
+  ring_a_bottom      3.9 g
+  ring_b             2.3 g
+  ring_d             2.5 g
+  ribs_upper         5.5 g
+  ribs_lower         3.1 g
+  pole_cap           1.0 g
+  printed total     31.2 g
+  stock electronics (55 g minus 24.2 g stock frame): 30.8 g
+  batteries 2x BT2.0 450 1S: 25.4 g
+  screws, nuts, strap: 1.6 g
+all-up weight (estimate): 89.0 g
+CG z = 3.7 mm, ball centre z = 11.0 mm -> CG 7.3 mm below centre
